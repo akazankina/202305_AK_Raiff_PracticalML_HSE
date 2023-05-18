@@ -2,14 +2,14 @@
 
 *Задача*: 
 
-
 по характеристикам клиентов некоторого мобильного оператора определить, собираются клиенты сменить оператора или нет
 
-Возможные значения целевой переменной **churn**
+*Значения целевой переменной* **churn**:
+
 - **"yes"**
 - **"no"**
 
-Описание данных клиентов:
+*Описание данных клиентов:*
 
 - **state**, string. 2-letter code of the US state of customer residence
 - **account_length**, numerical. Number of months the customer has been with the current telco provider
